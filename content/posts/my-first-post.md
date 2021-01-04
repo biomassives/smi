@@ -1,7 +1,7 @@
 ---
-title: 'My First Post'
-date: 2019-07-18T17:18:05+01:00
+title: 'Sacred medicinal insights podcast'
+date: 2021-01-03T17:18:05+01:00
 draft: false
 ---
-
-# Hugo on Vercel
+Dedicated to providing sacred medicinal insights for self improvement and naturally the betterment of society.
+# We believe that our global society is in dire need of Sacred Medicines for holistic revitalization.
