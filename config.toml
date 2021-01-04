@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://sacredmedicinalinsights.vercel.app"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Sacred Medicinal Insights"
+logo = "smilogo.gif"
 theme = "ananke"
